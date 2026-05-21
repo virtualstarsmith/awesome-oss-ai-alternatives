@@ -1,0 +1,19 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node (if awesome-lint is run locally)
+node_modules/
+package-lock.json
+
+# Temporary files
+*.tmp
+*.bak
