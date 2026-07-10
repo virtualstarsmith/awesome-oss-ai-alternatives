@@ -47,6 +47,7 @@ Self-hosted chat front-ends. The "private ChatGPT for my team / company / homela
 - [**khoj-ai/khoj**](https://github.com/khoj-ai/khoj) — Personal AI "second brain" over your notes & files. *(alt: NotebookLM / Notion AI)*
 - [**danny-avila/LibreChat**](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT clone with multi-provider support, 25K★. *(alt: ChatGPT Plus)*
 - [**oobabooga/text-generation-webui**](https://github.com/oobabooga/text-generation-webui) — Gradio web UI for running LLMs locally with LoRA training. *(alt: ChatGPT)*
+- [**off-grid-ai/off-grid-ai-desktop**](https://github.com/off-grid-ai/off-grid-ai-desktop) — 100% offline private AI desktop for macOS - local LLM chat, image gen, dictation, RAG memory, all on-device via llama.cpp. *(alt: ChatGPT Desktop / Claude Desktop)*
 
 ---
 
