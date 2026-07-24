@@ -109,6 +109,7 @@ Visual & code-first automation backbones for content pipelines, hot-topic radars
 - [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) — Multi-agent role-based orchestration framework. *(alt: Multi-On)*
 - [**langgenius/dify**](https://github.com/langgenius/dify) — Production-ready LLM app development platform with workflow + RAG + agent, 130K★. *(alt: LangSmith / Voiceflow)*
 - [**activepieces/activepieces**](https://github.com/activepieces/activepieces) — Open-source Zapier alternative with AI pieces, 15K★. *(alt: Zapier)*
+- [**MarlBurroW/hivekeep**](https://github.com/MarlBurroW/hivekeep) — Self-hosted platform to run a team of specialized AI agents with persistent memory, a web UI and Telegram/Slack/Discord/Matrix channels. *(alt: Lindy AI / ChatGPT Team)*
 
 ---
 
