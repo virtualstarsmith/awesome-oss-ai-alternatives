@@ -134,6 +134,7 @@ The runtimes that power everything above when you don't want to call OpenAI.
 - [**mudler/LocalAI**](https://github.com/mudler/LocalAI) — Drop-in OpenAI-compatible API for local models. *(alt: OpenAI API)*
 - [**mozilla/llamafile**](https://github.com/mozilla/llamafile) — Distribute and run LLMs as a single file, by Mozilla. *(alt: OpenAI API for local)*
 - [**huggingface/text-generation-inference**](https://github.com/huggingface/text-generation-inference) — Production LLM serving with continuous batching, by HuggingFace. *(alt: OpenAI API serving)*
+- [**feder-cr/jev**](https://github.com/feder-cr/jev) — Self-hosted CPU-only yes/no decision model, single forward pass, no text generation. *(alt: Jev by TypeSafe AI)*
 
 ---
 
