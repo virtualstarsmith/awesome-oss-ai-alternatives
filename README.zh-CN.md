@@ -134,6 +134,7 @@ AI 原生设计工具与设计系统 Skill 包，对应 Figma + Magician + 各�
 - [**mudler/LocalAI**](https://github.com/mudler/LocalAI) — OpenAI 兼容协议的本地替身。 *(alt: OpenAI API)*
 - [**mozilla/llamafile**](https://github.com/mozilla/llamafile) — Mozilla 出品，将 LLM 打包为单个可执行文件分发运行。 *(alt: OpenAI API for local)*
 - [**huggingface/text-generation-inference**](https://github.com/huggingface/text-generation-inference) — HuggingFace 出品的生产级 LLM 推理服务，支持连续批处理。 *(alt: OpenAI API serving)*
+- [**feder-cr/jev**](https://github.com/feder-cr/jev) — 自托管纯 CPU 是/否决策模型，单次前向推理，不生成文本。 *(alt: Jev by TypeSafe AI)*
 
 ---
 
